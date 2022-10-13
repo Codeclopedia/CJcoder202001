@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Chetan Joshi.
-- 👀 I’m interested in App development and learning new things.
-- 🌱 I’m currently learning Flutter(with dart)
-- 💞️ I’m looking to collaborate on flutter projects
-- 📫 You can reach me through email joshi.chetan.work@gmail.com
+Hi there 👋
 
+My name is Chetan Joshi. I am a App developer currently working on freelance projects with flutter and dart.
+
+You can reach out to me on
+
+[![Chetan's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
