@@ -7,6 +7,6 @@ You can reach out to me on
 (https://www.linkedin.com/in/chetan-joshi-216178250/)
 
 
-![Chetan's GitHub stats](https://github-readme-stats.vercel.app/api?username=CJcoder202001&show_icons=true&theme=radical)
+![Chetan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Codeclopedia&show_icons=true&theme=radical)
 
 ![](https://komarev.com/ghpvc/?username=Codeclopedia)
